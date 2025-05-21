@@ -1,0 +1,7 @@
+# build output
+/bin/
+/obj/
+
+# Whisper model files
+*.bin
+**/*.mlmodelc/
